@@ -1,0 +1,4 @@
+Oct 05 14:43:22 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Oct 09 12:01:42 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
